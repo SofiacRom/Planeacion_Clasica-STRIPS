@@ -95,3 +95,11 @@ lograr una primero arruina la otra si no se planea con cuidado. El
 planificador de este proyecto lo resuelve encontrando el plan más corto
 posible (gracias a que usa BFS), intercalando los pasos necesarios en el
 orden correcto.
+
+---
+
+## Autora
+
+Desarrollado por **Laura Sofia Cardona Román** — Universidad Tecnológica de Pereira  
+Asignatura: Inteligencia Artificial
+Profesor: Nicolas Narváez Olaya
